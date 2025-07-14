@@ -21,4 +21,4 @@ Contributing
 Contributions are welcome! If you'd like to contribute to ITGUIDE, please fork the repository, make improvements, and submit pull requests.
 
 Contact
-For any questions or feedback, please contact the project team via [ LinkedIn: (https://www.linkedin.com/in/pranav-yamjal-ab27201a1/)].
+For any questions or feedback, please contact the project team via [ LinkedIn: linkedin.com/in/jaywardhan-yadav-53601b355].
